@@ -7,4 +7,4 @@ The GeneRead.py File reads as well as generates the Distance Matrix, Node Locati
 
 The MainPythonFile.py calls the other files and generates all solutions within a Solutions directory when it is run.
 
-The Solutions directory is also attached. The Total RunTime of obtaining the Solutions Directory was 4 full days (about 90 hours).
+The Total RunTime of obtaining the solution as the Table.xlsx file was about 90 hours.
